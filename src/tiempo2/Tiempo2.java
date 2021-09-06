@@ -18,7 +18,8 @@ public class Tiempo2 {
         // TODO code application logic here
         
         String nombre="juan";
-        int edad=32;
+        int edad=323;
+        int peso=80;
     }
     
 }
