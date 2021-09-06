@@ -18,7 +18,7 @@ public class Tiempo2 {
         // TODO code application logic here
         
         String nombre="juan";
-        String edad=32;
+        int edad=32;
     }
     
 }
